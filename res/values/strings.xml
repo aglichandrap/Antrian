@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Antrian Barang</string>
+    <string name="action_settings">(belum ada)</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_baru">Tambah Barang</string>
+    <string name="title_activity_lihat">Lihat Barang</string>
+    <string name="title_activity_ubah">Ubah Barang</string>
+
+</resources>
